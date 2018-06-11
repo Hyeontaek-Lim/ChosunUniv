@@ -1,0 +1,100 @@
+cd ~
+cd up/cmd
+vi Makefile
+cd ~/up/fio
+ls
+vi fio.c
+vi fio.c
+cd ~/up/fio
+pwd
+cp /home/jhshim/up/fio/file_io.c .
+cp /home/jhshim/up/fio/mkrec.c .
+cp /home/jhshim/up/fio/Makefile .
+ls
+make
+fio
+vi Makefile
+vi mkrec.c
+man -s2 stdarg
+man -s2 va_list
+man -s3c va_list
+man -s2 stdarg
+man -s3c stdarg
+man -s1 stdarg
+eshw 11
+vi file_io.c
+vi Makefile .
+ls
+fio
+cd ~/up/cmd
+make
+cmd
+logout
+cd up/cmd
+ls
+cd up
+cd fio
+make
+make
+make
+make
+make
+make
+logout
+cd up/fio
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+man -s2 open
+man lseek
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+vi file_io.c
+logout
+cd up/fio
+eshw 14
+eshw 14
+cd up/fio
+vi file_io.c

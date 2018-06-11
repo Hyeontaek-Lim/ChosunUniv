@@ -1,0 +1,21 @@
+
+# fio 프로그램의 리소스 파일
+
+FileName ./fio.rc
+Program fio.c
+Version 1.2
+
+# 자동 생성할 레코드의 시작 키 값
+START_KEY 0
+
+# 자동 생성할 레코드 개수
+REC_NUM 10
+
+# 파일 I/O의 종류
+# 0.Text File IO: fopen() fclose() fscanf() fprintf()
+# 1.Text File IO: fopen() fclose() sscanf() sprintf() fgets() fputs()
+# 2.Binary File IO: fopen() fclose() fread() fwrite()
+# 3.Binary File IO: open() close() read() write()
+FILE_IO_TYPE 0
+
+
